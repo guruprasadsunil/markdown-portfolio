@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*We will be in italy*
+_This will also be italy_
+
+**We will be boder**
+__We will also be boder__
+
+_**We** can combine them_
